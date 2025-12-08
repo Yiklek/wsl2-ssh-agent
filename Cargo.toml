@@ -10,4 +10,4 @@ clap = { version = "4", features = ["derive"] }
 tokio-util = { version = "0.7", features = ["codec", "io"] }
 tokio-stream = "0.1.17"
 futures = "0.3.31"
-log = { version = "0.4.28", features = ["std"] }
+log = { version = "0.4.29", features = ["std"] }
